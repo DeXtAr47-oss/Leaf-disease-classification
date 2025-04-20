@@ -20,7 +20,8 @@ The datset that I have used for the project is taken from the Kaggle website (ht
 
 ## 📌 Dataset overview and class distribution
 This dataset consist of 15 different types of leafs, the total size of the dataset is 20605 outof which 2475 are of pepper bell leafs, 2152 are of potato leafs and 15978 images are of tomato leafs.
-  * ![Pepper__bell___Bacterial_spot -> 997 images](images/0b47ce18-7cfe-45e8-b21e-b83cb6282455___JR_B.Spot 3162.JPG)
+  * Pepper__bell___Bacterial_spot -> 997 images
+    ![]([images/0b47ce18-7cfe-45e8-b21e-b83cb6282455___JR_B.Spot 3162.JPG](https://github.com/DeXtAr47-oss/Leaf-disease-classification/blob/fc4a329b03dfece3fe710fab1de6b2872263b5b3/images/0b47ce18-7cfe-45e8-b21e-b83cb6282455___JR_B.Spot%203162.JPG))
   * ![Pepper__bell___healthy -> 1478 images](images/0ba474dd-0cfd-4fd2-a58c-8e3d18dbe7c3___JR_HL 8395.JPG)
   * ![Potato___Early_blight -> 1000 images](images/0a0744dc-8486-4fbb-a44b-4d63e6db6197___RS_Early.B 7575.JPG)
   * ![Potato___healthy -> 152](images/00bce074-967b-4d50-967a-31fdaa35e688___RS_HL 0223.JPG)
