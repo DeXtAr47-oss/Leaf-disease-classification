@@ -118,3 +118,6 @@ As of the above image we can understand that the green channel frequency is much
 | Model    | Accuracy | Loss   | Precision | Recall |
 |----------|----------|--------|-----------|--------|
 | Custom   | 100      | 0.00   |1.00       |1.00    |
+
+# Conclusion
+As we can see that my custom cnn_model can accurately classify the images so I haven't used any IMAGENET models to classfiy the images, as of more detail on the cnn architecture i have provided the python notebook.
