@@ -14,7 +14,7 @@ This solution aims to assist farmers and agricultural experts by providing a fas
   * Evaluate the model using metrics such as accuracy, precision and recall.
 
 # 🖼️ Dataset
-The datset that I have used for the project is taken from the Kaggle website (https://www.kaggle.com/datasets/arjuntejaswi/plant-village/data).Well kaggle is a famous website known for organizing many data science competition and for delivering dataset.
+The datset that I have used for the project is taken from the Kaggle website (https://www.kaggle.com/datasets/arjuntejaswi/plant-village/data) Well kaggle is a famous website known for organizing many data science competition and for delivering dataset.
  
 # 🔍 Exploratory Data Analysis (EDA)
 
