@@ -115,6 +115,6 @@ As of the above image we can understand that the green channel frequency is much
 
 # 📈 Model Performance based on Accuracy Scores
 
-    | Model     | Accuracy | Loss   | Precision | Recall |
-    |-----------|----------|--------|-----------|--------|
-    | Custom    | 100.00   | 0.0000 |1.00       |1.00    |
+| Model    | Accuracy | Loss   | Precision | Recall |
+|----------|----------|--------|-----------|--------|
+| Custom   | 100      | 0.00   |1.00       |1.00    |
