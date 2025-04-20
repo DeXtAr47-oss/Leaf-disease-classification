@@ -112,3 +112,9 @@ As of the above image we can understand that the green channel frequency is much
  * Mean per channel (BGR): [0.41131156 0.47504014 0.45880439]
  * Std per channel (BGR): [0.19125798 0.15119882 0.17416257]
  * Shape: height: 256, width: 256, channels: 3
+
+# 📈 Model Performance based on Accuracy Scores
+
+    | Model     | Accuracy | Loss   | Precision | Recall |
+    |-----------|----------|--------|-----------|--------|
+    | Custom    | 100.00   | 0.0000 |1.00       |1.00    |
