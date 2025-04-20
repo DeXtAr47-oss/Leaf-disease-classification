@@ -94,4 +94,21 @@ This dataset consist of 15 different types of leafs, the total size of the datas
     <div align="center">
       <img src="https://github.com/DeXtAr47-oss/Leaf-disease-classification/blob/e4d4c7ef2d1539bc0d8e47b34cb162e0f6fead22/images/0a14b65b-2e45-4bed-be45-c482a40a4f7c___UF.GRC_YLCV_Lab%2002090.JPG" width="300"/>
     </div>
-    
+
+## Class distribution
+<div align="center">
+   <img src="https://github.com/DeXtAr47-oss/Leaf-disease-classification/blob/dd8fda58f0d3043c2a8de1d5248b306996c9675b/images/leaf_class_distribution.png" width="300"/>
+</div>
+As of the above image we can see the distribution of the class in the dataset there are total of 15 classes in the data where we can see that some class have no. of images like Tomato_YellowLeaf_Curl_Virus has approx 2500 images in the data whereas Potato_healthy, Tomato_Leaf_Mold, and Tomato_mosaic_virus have relatively fewer samples.
+Overall we can say that the data is quiet balanced as of the classes like Tomato_Bacterial_spot, Tomato_Late_blight, and Tomato_Septoria_leaf_spot are relatively well-represented (similar heights).
+
+## Pixel distribution
+<div align="center">
+   <img src="https://github.com/DeXtAr47-oss/Leaf-disease-classification/blob/dd8fda58f0d3043c2a8de1d5248b306996c9675b/images/pixell_distribution.png" width="300"/>
+</div>
+As of the above image we can understand that the green channel frequency is much more than the red and blue ones, also the blue channel have significant peak near zero indicating more no. of dark blue pixels but in the mid-range near 160pixels we can see that the green channel have higher frequency than the others also all channels taper off gradually beyond 160, indicating fewer high-intensity (bright) pixels, especially in the red and green channels.
+
+## Mean and standard deviation of the pixel values
+ * Mean per channel (BGR): [0.41131156 0.47504014 0.45880439]
+ * Std per channel (BGR): [0.19125798 0.15119882 0.17416257]
+ * Shape: height: 256, width: 256, channels: 3
